@@ -52,7 +52,7 @@ Get ready to utilise a range of cutting-edge technologies and platforms to estab
 ### Prerequisites
 
 Before you start, ensure you have the following [prerequisites](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure/blob/main/prerequisites.md) in place
-1. [ ] [Create a Storage Account for Terraform State file](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure/blob/main/1-Azure/1-Configure-Terraform-Remote-Storage.md)
+1. [x] [Create a Storage Account for Terraform State file](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure/blob/main/1-Azure/1-Configure-Terraform-Remote-Storage.md)
 2. [ ] [Set up an Azure AD Group for AKS Admins](https://github.com/thomast1906/DevOps-The-Hard-Way-Azure/blob/main/1-Azure/2-Create-Azure-AD-Group-AKS-Admins.md)
 
 ### Main Sections
